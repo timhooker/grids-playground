@@ -1,0 +1,15 @@
+/* So we can see them */
+.styled-item {
+	border: 1px solid #efefef;
+	box-shadow: 2px 2px 0px rgba(0,0,0,.1);
+	background-color: #fafafa;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+/* 1. Turn on grids */
+/* 2. Columns */
+/* 3. Rows */
+/* 4. Template Areas */
+/* 5. Full Page - readjust rows */

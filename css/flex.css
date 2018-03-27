@@ -1,0 +1,12 @@
+.cards-flex {
+	display: flex;
+	justify-content: stretch;
+	flex-wrap: wrap;
+}
+.cards-flex > div {
+	flex-grow: 1;
+	flex-basis: calc(33% - 64px);
+	max-width: calc(33% - 32px);
+	min-height: 200px;
+	margin: 16px;
+}

@@ -1,0 +1,12 @@
+* {
+	color: #3e3e3e;
+	font-family: 'Lato', sans-serif;
+}
+nav {
+	list-style: none;
+	display: flex;
+}
+
+nav li a {
+	padding: 16px 16px 16px 0;
+}
